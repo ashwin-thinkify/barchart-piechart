@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.app-wrapper{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.visibility-filters{
+  height:50%;
+  width:50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.input-box{
+  width: 200px;
+  height: 30px;
+  padding: 2px;
+  margin: 0 19px;
+}
+
+.app-header{
+  display:flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+
+.button-link{
+  border: 5px solid #8d8ded;
+    padding: 6px;
+    height: 20px;
+    border-radius: 20px;
+    font-weight: 700;
+    background-color: aqua;
+}

@@ -5,7 +5,7 @@ const THINKIFY_LIST = [
         role: "Software Developer",
         skills: "Web applications| React.js | Redux",
         experience: "5 years",
-        rate : "$8/hr",
+        rate : "$4/hr",
         location: "Bangalore",
         availability: "Immediate",
         gitHub: 'https://github.com/thinkify',
